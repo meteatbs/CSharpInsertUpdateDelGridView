@@ -1,0 +1,9 @@
+C:\Users\metea\source\repos\DataGridViewApp\DataGridViewApp\bin\Debug\DataGridViewApp.exe.config
+C:\Users\metea\source\repos\DataGridViewApp\DataGridViewApp\bin\Debug\DataGridViewApp.exe
+C:\Users\metea\source\repos\DataGridViewApp\DataGridViewApp\bin\Debug\DataGridViewApp.pdb
+C:\Users\metea\source\repos\DataGridViewApp\DataGridViewApp\obj\Debug\DataGridViewApp.csprojAssemblyReference.cache
+C:\Users\metea\source\repos\DataGridViewApp\DataGridViewApp\obj\Debug\DataGridViewApp.Form1.resources
+C:\Users\metea\source\repos\DataGridViewApp\DataGridViewApp\obj\Debug\DataGridViewApp.Properties.Resources.resources
+C:\Users\metea\source\repos\DataGridViewApp\DataGridViewApp\obj\Debug\DataGridViewApp.csproj.GenerateResource.cache
+C:\Users\metea\source\repos\DataGridViewApp\DataGridViewApp\obj\Debug\DataGridViewApp.exe
+C:\Users\metea\source\repos\DataGridViewApp\DataGridViewApp\obj\Debug\DataGridViewApp.pdb
